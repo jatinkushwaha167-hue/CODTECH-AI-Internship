@@ -1,0 +1,5 @@
+Artificial intelligence is transforming the world. 
+It is used in healthcare, education, and automation.
+Machine learning allows systems to learn from data.
+Deep learning is a powerful subset of machine learning.
+AI (Artificial Intelligence) is the simulation of human intelligence in machines, enabling them to learn, reason, solve problems, perceive, and make decisions, using algorithms and data to perform tasks like understanding language, recognizing images, or driving cars, often at a faster scale than humans. It's a broad field within computer science that powers virtual assistants (Siri, Alexa), recommendation engines (Netflix), and advanced systems like self-driving cars, constantly learning from experience to improve performance
